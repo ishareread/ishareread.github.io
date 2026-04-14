@@ -2,7 +2,7 @@
 set -e
 
 # 下载并安装 Hugo
-HUGO_VERSION="0.140.2"
+HUGO_VERSION="0.160.1"
 if [ ! -f /tmp/hugo ]; then
     wget -qO /tmp/hugo.tar.gz "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
     tar -xzf /tmp/hugo.tar.gz -C /tmp
