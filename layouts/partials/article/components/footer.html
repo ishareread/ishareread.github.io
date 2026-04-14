@@ -1,0 +1,44 @@
+<footer class="article-meta article-footer">
+    {{ partial "article/components/tags" . }}
+
+    {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
+    <section class="article-copyright inline-meta">
+        {{ partial "helper/icon" "copyright" }}
+        <span>{{ default .Site.Params.article.license.default .Params.license | markdownify }}</span>
+    </section>
+    {{ end }}
+
+    {{- if ne .Lastmod .Date -}}
+    <section class="article-lastmod inline-meta">
+        {{ partial "helper/icon" "clock" }}
+        <span>
+            {{ T "article.lastUpdatedOn" }} {{ .Lastmod | time.Format .Site.Params.dateFormat.lastUpdated }}
+        </span>
+    </section>
+    {{- end -}}
+</footer>
+
+{{- /* 公众号引流组件 - 仅在文章页显示，关于/页面页不显示 */ -}}
+{{ if and (eq .Type "post") (not .Params.hideCTA) }}
+<section class="wechat-cta" style="
+    margin: 2em 0;
+    padding: 1.5em;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border: 1px solid #e1e8ed;
+    text-align: center;
+">
+    <p style="margin: 0 0 1em; color: #555; line-height: 1.6;">
+        关注「<strong>爱分享读书</strong>」，获取深度解读及精选书单
+    </p>
+    <img src="/img/wechat-qr.jpg" alt="爱分享读书公众号二维码" style="
+        width: 180px;
+        height: 180px;
+        border-radius: 8px;
+        margin: 0.5em auto 1em;
+        display: block;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    " />
+    <p style="margin: 0; color: #888; font-size: 0.85em;">微信扫码关注</p>
+</section>
+{{ end }}

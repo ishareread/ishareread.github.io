@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-wechat" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M8.5 3c-3.314 0 -6 2.462 -6 5.5c0 1.821 1.022 3.44 2.625 4.475l-.625 2.025l2.392 -1.197c.58 .13 1.185 .197 1.808 .197c.33 0 .654 -.024 .97 -.068c-.174 -.482 -.27 -.99 -.27 -1.517c0 -3.314 2.908 -6 6.5 -6c.163 0 .325 .006 .485 .017c-.793 -2.153 -3.229 -3.432 -5.985 -3.432z" />
+  <path d="M17 12.5c0 -2.485 -2.462 -4.5 -5.5 -4.5s-5.5 2.015 -5.5 4.5s2.462 4.5 5.5 4.5c.52 0 1.023 -.058 1.5 -.167l2 1.167l-.5 -1.875c1.462 -.964 2.5 -2.464 2.5 -4.125z" />
+  <path d="M10.5 7.5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path d="M8.5 11.5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path d="M16.5 11.5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path d="M15.5 14.5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+</svg>
