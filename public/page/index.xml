@@ -1,13 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 📖 爱分享读书</title><link>https://www.ishareread.com/page/</link><description>Recent content in Pages on 📖 爱分享读书</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.ishareread.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://www.ishareread.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ishareread.com/about/</guid><description>&lt;h2 id="关于爱分享读书"&gt;关于「爱分享读书」
-&lt;/h2&gt;&lt;p&gt;「爱分享读书」是一个专注好书推荐的阅读平台。&lt;/p&gt;
-&lt;p&gt;我们相信，&lt;strong&gt;一本好书可以改变一个人的思维方式&lt;/strong&gt;。&lt;/p&gt;
-&lt;h3 id="我们做什么"&gt;我们做什么
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;strong&gt;好书推荐&lt;/strong&gt; — 精选各领域经典好书，从入门到深度&lt;/li&gt;
-&lt;li&gt;📝 &lt;strong&gt;深度解读&lt;/strong&gt; — 不只是书摘，而是结合现实的深度思考&lt;/li&gt;
-&lt;li&gt;🎯 &lt;strong&gt;行动指南&lt;/strong&gt; — 每本书都附带可执行的行动建议&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="关注我们"&gt;关注我们
-&lt;/h3&gt;&lt;img src="https://www.ishareread.com/img/wechat-qr.jpg" alt="爱分享读书公众号二维码" style="width:200px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1)" /&gt;
-&lt;p&gt;微信扫码关注公众号「&lt;strong&gt;爱分享读书&lt;/strong&gt;」，获取更多好书推荐和深度解读。&lt;/p&gt;</description></item><item><title>归档</title><link>https://www.ishareread.com/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ishareread.com/archives/</guid><description/></item><item><title>搜索</title><link>https://www.ishareread.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ishareread.com/search/</guid><description/></item><item><title>友链</title><link>https://www.ishareread.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ishareread.com/links/</guid><description>&lt;h2 id="友情链接"&gt;友情链接
-&lt;/h2&gt;&lt;p&gt;如果想要交换友链，欢迎通过微信公众号「爱分享读书」联系我。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 📖 爱分享读书</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on 📖 爱分享读书</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>关于</title>
+            <link>http://localhost:1313/about/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/about/</guid>
+            <description>&lt;h2 id=&#34;关于爱分享读书&#34;&gt;关于「爱分享读书」&#xA;&lt;/h2&gt;&lt;p&gt;「爱分享读书」是一个专注好书推荐的阅读平台。&lt;/p&gt;&#xA;&lt;p&gt;我们相信，&lt;strong&gt;一本好书可以改变一个人的思维方式&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;h3 id=&#34;我们做什么&#34;&gt;我们做什么&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;📚 &lt;strong&gt;好书推荐&lt;/strong&gt; — 精选各领域经典好书，从入门到深度&lt;/li&gt;&#xA;&lt;li&gt;📝 &lt;strong&gt;深度解读&lt;/strong&gt; — 不只是书摘，而是结合现实的深度思考&lt;/li&gt;&#xA;&lt;li&gt;🎯 &lt;strong&gt;行动指南&lt;/strong&gt; — 每本书都附带可执行的行动建议&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;更新频率&#34;&gt;更新频率&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;每周更新 &lt;strong&gt;2-3 篇&lt;/strong&gt; 好书推荐与深度解读&lt;/li&gt;&#xA;&lt;li&gt;内容覆盖：投资理财、职场成长、科技前沿、国际政治、心理疗愈等领域&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;内容特点&#34;&gt;内容特点&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;拒绝简单的书摘搬运，提供有价值的深度解读&lt;/li&gt;&#xA;&lt;li&gt;结合当下热点和生活实际，让读书真正有用&lt;/li&gt;&#xA;&lt;li&gt;每本书都附带可执行的行动清单&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;关注我们&#34;&gt;关注我们&#xA;&lt;/h3&gt;&lt;img src=&#34;http://localhost:1313/img/wechat-qr.jpg&#34; alt=&#34;爱分享读书公众号二维码&#34; style=&#34;width:200px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1)&#34; /&gt;&#xA;&lt;p&gt;微信扫码关注公众号「&lt;strong&gt;爱分享读书&lt;/strong&gt;」，获取更多好书推荐和深度解读。&lt;/p&gt;</description>
+        </item><item>
+            <title>关注公众号</title>
+            <link>http://localhost:1313/subscribe/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/subscribe/</guid>
+            <description>&lt;h2 id=&#34;关注爱分享读书微信公众号&#34;&gt;关注「爱分享读书」微信公众号&#xA;&lt;/h2&gt;&lt;p&gt;扫码关注公众号「&lt;strong&gt;爱分享读书&lt;/strong&gt;」，获取更多好书推荐和深度解读。&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/wechat-qr.jpg&#34; alt=&#34;爱分享读书公众号二维码&#34; style=&#34;width:200px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1)&#34; /&gt;&#xA;&lt;h3 id=&#34;你将获得&#34;&gt;你将获得&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;精选好书推荐，覆盖投资理财、职场成长、科技前沿等领域&lt;/li&gt;&#xA;&lt;li&gt;每本书的深度解读与行动指南&lt;/li&gt;&#xA;&lt;li&gt;回复「书单」获取精选分类书单&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+        </item><item>
+            <title>归档</title>
+            <link>http://localhost:1313/archives/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/archives/</guid>
+            <description></description>
+        </item><item>
+            <title>搜索</title>
+            <link>http://localhost:1313/search/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/search/</guid>
+            <description></description>
+        </item><item>
+            <title>友链</title>
+            <link>http://localhost:1313/links/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/links/</guid>
+            <description>&lt;h2 id=&#34;友情链接&#34;&gt;友情链接&#xA;&lt;/h2&gt;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;相识于江湖，相知于文字。&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;p&gt;以下是我们的友情博客和网站，都是优质的内容创作者：&lt;/p&gt;&#xA;&lt;!-- 在这里添加友链，格式如下：&#xA;- **网站名称** — 一句话介绍&#xA;  [网址](https://example.com)&#xA;--&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;交换友链&#34;&gt;交换友链&#xA;&lt;/h2&gt;&lt;p&gt;欢迎交换友链！如果你也有一个优质的博客或网站，欢迎联系我。&lt;/p&gt;</description>
+        </item></channel>
+</rss>

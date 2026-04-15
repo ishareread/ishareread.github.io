@@ -32,15 +32,19 @@ favicon        = "img/favicon.png"
 [comments]
     enabled  = false
 
+[opengraph]
+    [opengraph.twitter]
+        card = "summary_large_image"
+
 [seo]
-    image = "img/og-image.png"
+    image = "img/og-image.jpg"
     description = "爱分享读书 - 用阅读拓展认知边界，每周好书推荐与深度解读"
 
 [defaultImage]
     [defaultImage.article]
         enabled = true
         local   = false
-        src     = "img/default-cover.png"
+        src     = "img/default-cover.jpg"
 
 [imageProcessing]
     [imageProcessing.cover]
