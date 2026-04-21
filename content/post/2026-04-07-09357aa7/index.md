@@ -8,7 +8,7 @@ categories:
 tags:
     - 投资
     - 心理
-    - AI
+    - AI时代
     - 阅读
     - 认知
 ---

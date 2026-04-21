@@ -10,7 +10,7 @@ tags:
     - 成长
     - 心理
     - 职场
-    - AI
+    - AI时代
     - 生死
     - 认知
 image: "feature.jpg"

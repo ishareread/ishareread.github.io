@@ -6,9 +6,9 @@ description: ""
 categories:
     - AI时代
 tags:
-    - 具身智能
+    - AI时代
     - 机器人时代
-    - AI能源
+    - AI时代
     - 生命3.0
 image: "feature.jpg"
 ---

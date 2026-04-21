@@ -2,7 +2,7 @@
 title: "DeepSearch来了，AI搜索时代我们该读什么？"
 date: 2026-04-20T09:00:00+08:00
 draft: false
-tags: ["AI搜索", "DeepSeek", "人工智能", "阅读方法", "AI时代"]
+tags: ["阅读方法", "AI时代"]
 categories: ["AI时代"]
 keywords: ["AI搜索", "DeepSeek", "深度搜索", "如何读书", "AI辅助阅读"]
 description: "微信正式接入DeepSeek，AI搜索时代来临。本文探讨AI搜索对阅读的影响，推荐三本帮助你在这个时代保持思考力的好书。"
