@@ -7,7 +7,7 @@ categories:
     - 地缘/历史
 tags:
     - 历史智慧
-    - 职场成长
+    - 职场/认知
     - 明朝
     - 组织管理
 image: "feature.jpg"

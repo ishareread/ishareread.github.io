@@ -4,7 +4,7 @@ date: 2026-04-22T04:00:00+08:00
 draft: false
 description: "2026年4月，Anthropic估值从3800亿飙升至8000亿美元，15个月收入增长30倍。这家保守的AI公司如何逆袭OpenAI？答案可能藏在一本你书架上落了灰的书里。"
 categories:
-    - AI时代
+    - 科技前沿
 tags:
     - AI投资
     - 硅谷

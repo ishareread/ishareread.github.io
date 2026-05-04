@@ -4,9 +4,9 @@ date: 2026-04-28T12:00:00+08:00
 draft: false
 description: "DeepSeek V4幻觉率94%引发热议，当我们讨论AI的边界时，我们到底在讨论什么？"
 categories:
-    - AI时代
+    - 科技前沿
 tags:
-    - AI时代
+    - 科技前沿
     - 人工智能
     - 科技反思
 image: "feature.jpg"

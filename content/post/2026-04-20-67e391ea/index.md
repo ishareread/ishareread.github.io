@@ -4,7 +4,7 @@ date: 2026-04-20T20:00:00+08:00
 draft: false
 description: ""
 categories:
-    - 观点文
+    - 认知升级
 tags:
     - 读书成长
     - 知行合一

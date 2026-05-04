@@ -4,7 +4,7 @@ date: 2026-04-20T11:00:00+08:00
 draft: false
 description: ""
 categories:
-    - AI时代
+    - 科技前沿
 tags:
     - 阅读
     - 成长

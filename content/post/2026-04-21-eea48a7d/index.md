@@ -4,11 +4,11 @@ date: 2026-04-21T00:00:00+08:00
 draft: false
 description: ""
 categories:
-    - AI时代
+    - 科技前沿
 tags:
-    - AI时代
+    - 科技前沿
     - 机器人时代
-    - AI时代
+    - 科技前沿
     - 生命3.0
 image: "feature.jpg"
 ---

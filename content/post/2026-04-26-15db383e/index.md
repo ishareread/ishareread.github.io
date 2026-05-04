@@ -7,7 +7,7 @@ categories:
     - 商业/投资
 tags:
     - 台积电
-    - AI时代
+    - 科技前沿
     - 商业洞察
     - 科技投资
 image: "feature.jpg"

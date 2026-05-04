@@ -6,7 +6,7 @@ description: "2026年CES黄仁勋预言自动驾驶十年普及，国产AI芯片
 categories:
     - 认知升级
 tags:
-    - AI时代
+    - 科技前沿
     - 认知升级
     - 未来趋势
     - 人机协作

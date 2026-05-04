@@ -7,7 +7,7 @@ categories:
     - 科技前沿
 tags:
     - 成长
-    - AI时代
+    - 科技前沿
     - 阅读
     - 认知
 image: "feature.jpg"
