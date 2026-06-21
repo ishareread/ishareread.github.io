@@ -5,7 +5,13 @@
         <description>Recent content in Categories on 📖 爱分享读书</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Sun, 21 Jun 2026 12:00:00 +0800</lastBuildDate><atom:link href="https://www.ishareread.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Jun 2026 17:00:00 +0800</lastBuildDate><atom:link href="https://www.ishareread.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI时代</title>
+            <link>https://www.ishareread.com/categories/ai%E6%97%B6%E4%BB%A3/</link>
+            <pubDate>Thu, 18 Jun 2026 08:00:00 +0800</pubDate>
+            <guid>https://www.ishareread.com/categories/ai%E6%97%B6%E4%BB%A3/</guid>
+            <description></description>
+        </item><item>
             <title>认知提升</title>
             <link>https://www.ishareread.com/categories/%E8%AE%A4%E7%9F%A5%E6%8F%90%E5%8D%87/</link>
             <pubDate>Sun, 21 Jun 2026 12:00:00 +0800</pubDate>
@@ -46,12 +52,6 @@
             <link>https://www.ishareread.com/categories/%E7%90%86%E8%B4%A2%E6%8A%95%E8%B5%84/</link>
             <pubDate>Fri, 19 Jun 2026 04:00:00 +0800</pubDate>
             <guid>https://www.ishareread.com/categories/%E7%90%86%E8%B4%A2%E6%8A%95%E8%B5%84/</guid>
-            <description></description>
-        </item><item>
-            <title>AI时代</title>
-            <link>https://www.ishareread.com/categories/ai%E6%97%B6%E4%BB%A3/</link>
-            <pubDate>Thu, 18 Jun 2026 08:00:00 +0800</pubDate>
-            <guid>https://www.ishareread.com/categories/ai%E6%97%B6%E4%BB%A3/</guid>
             <description></description>
         </item><item>
             <title>历史文化</title>
