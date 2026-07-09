@@ -5,7 +5,7 @@ tags:
   - AI机器学习
 categories:
   - 技术
-slug: image-upload-skill
+slug: fb4285ba
 date: 2026-06-26 09:20:00
 ---
 
