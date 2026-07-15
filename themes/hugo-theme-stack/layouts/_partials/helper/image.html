@@ -40,7 +40,7 @@
     {{ end }}
 
     {{ if $resource }}
-        {{ if and .Context.Site.Params.imageProcessing.autoOrient (reflect.IsImageResourceProcessable $resource) }}
+        {{ if and .Context.Site.Params.imageProcessing.autoOrient ($resource) }}
             {{ $filter := images.AutoOrient }}
             {{ $resource = $resource | images.Filter $filter }}
         {{ end }}
@@ -49,7 +49,7 @@
             {{ $permalink = $resource.RelPermalink }}
         {{ end }}
 
-        {{ if reflect.IsImageResourceWithMeta $resource }}
+        {{ if and $resource.Height $resource.Width }}
             {{ $result = dict
                 "Resource" $resource
                 "Permalink" $permalink

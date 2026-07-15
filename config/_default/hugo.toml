@@ -3,8 +3,6 @@ languageCode           = "zh-CN"
 title                  = "爱分享读书"
 defaultContentLanguage = "zh"
 hasCJKLanguage         = true
-paginate               = 10
-
 theme = "hugo-theme-stack"
 
 [permalinks]

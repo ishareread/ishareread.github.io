@@ -20,7 +20,7 @@
         {{ end }}
 
         <div class="article-details"
-            {{- if and $image (reflect.IsImageResourceProcessable $image.Resource) -}}
+            {{- if and $image ($image.Resource) -}}
                 {{- $colors := $image.Resource.Colors -}}
                 {{- if $colors -}}
                     {{- $vibrant := index $colors 0 -}}

@@ -13,7 +13,7 @@ Params:
 {{- $resize := .Resize -}}
 {{- $attributes := .Attributes | default dict -}}
 
-{{- if and $resize $resource (reflect.IsImageResourceProcessable $resource) $width $height -}}
+{{- if and $resize $resource ($resource) $width $height -}}
     {{/* Create thumbnail with 1x/2x descriptors */}}
     {{- $srcset := slice -}}
     {{- range (slice 1 2) -}}

@@ -10,7 +10,7 @@ Params:
 {{- $attributes := .Attributes | default dict -}}
 
 {{/* Generate srcset if Resource and Widths are provided */}}
-{{- if and $widths $resource (reflect.IsImageResourceProcessable $resource) -}}
+{{- if and $widths $resource ($resource) -}}
     {{- $srcset := slice -}}
     {{- range $widths -}}
         {{- if lt . $resource.Width -}}
