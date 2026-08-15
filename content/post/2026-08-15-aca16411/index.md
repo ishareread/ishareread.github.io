@@ -1,5 +1,5 @@
 ---
-title: "AI速度战全面打响：翻开20年前这本"预言书"才懂，我们正在以秒为单位经历一场文明级的加速"
+title: "AI速度战全面打响：翻开20年前这本\"预言书\"才懂，我们正在以秒为单位经历一场文明级的加速"
 date: 2026-08-15T09:30:00+08:00
 draft: false
 description: "OpenAI GPT-5.6 Sol Ultrafast每秒750Token、DeepSeek V4-Pro转正、阿里Qwen3.8开源——从库兹韦尔《奇点临近》的加速回报定律看2026年8月AI速度战"
