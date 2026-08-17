@@ -1,4 +1,0 @@
-baseURL = "https://www.ishareread.com/"
-languageCode = "zh-CN"
-title = "爱分享读书"
-buildFuture = true
